@@ -1,4 +1,4 @@
-Zootopia- The implemented java program manages the zoo compromising of
+Zootopia (A Zoo management system)- The implemented java program manages the zoo compromising of
 various classes such as Attraction,Admin,Visitor etc. which helps to run
 various functions for Admins and visitors.This project was made in
 Intellij using Maven. ADMIN 1 - username - Zoey01 password - Z123 ADMIN
